@@ -5,4 +5,4 @@ opencv-python==4.8.1.78
 scikit-learn==0.24.0
 scipy==1.5.4
 threadpoolctl==2.1.0
-tqdm==4.54.1
+tqdm==4.66.3
